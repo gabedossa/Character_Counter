@@ -38,11 +38,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/contador-de-caracteres.git
+   git clone https://github.com/gabedossa/Character_Counter.git
    ```
 2. **Navegar até o diretório do projeto:**
    ```bash
-   cd contador-de-caracteres
+   cd Character_Counter
    ```
 3. **Instalar as dependências:**
    ```bash
