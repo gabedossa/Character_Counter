@@ -1,5 +1,13 @@
 # Character_Counter
 # 📊 Contador de Caracteres
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,ts" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jest,react" />
+  </a>
+</p>
 
 > Projeto desenvolvido como parte do desafio do [Frontend Mentor](https://www.frontendmentor.io/challenges/character-counter-znSgeWs_i6), com o objetivo de criar uma aplicação que analisa e fornece estatísticas detalhadas sobre o texto inserido pelo usuário.
 
